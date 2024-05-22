@@ -22,3 +22,4 @@ eventlogger.soundcloud.com
 ssl.google-analytics.com
 www.awin.com
 www.googletagmanager.com
+licensing.bitmovin.com
