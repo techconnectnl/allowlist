@@ -23,3 +23,5 @@ ssl.google-analytics.com
 www.awin.com
 www.googletagmanager.com
 licensing.bitmovin.com
+prf.hn
+www.prf.hn
