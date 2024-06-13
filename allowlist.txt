@@ -25,3 +25,4 @@ www.googletagmanager.com
 licensing.bitmovin.com
 prf.hn
 www.prf.hn
+prd.jwpltx.com
