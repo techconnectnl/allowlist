@@ -21,6 +21,7 @@ cdn.cookielaw.org
 eventlogger.soundcloud.com
 ssl.google-analytics.com
 www.awin.com
+js-agent.newrelic.com
 www.googletagmanager.com
 licensing.bitmovin.com
 prf.hn
