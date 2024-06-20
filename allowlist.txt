@@ -29,3 +29,4 @@ www.prf.hn
 prd.jwpltx.com
 wl.spotify.com
 script.hotjar.com
+static.hotjar.com
