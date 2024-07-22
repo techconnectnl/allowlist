@@ -30,3 +30,6 @@ prd.jwpltx.com
 wl.spotify.com
 script.hotjar.com
 static.hotjar.com
+api.iterable.com
+ca.iadsdk.apple.com
+cdn-settings.segment.com
