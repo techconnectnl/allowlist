@@ -1,4 +1,5 @@
-# allowlist
+# Whitelist for UniFi Ad Blocking
+
 Domains allowed for Ad blocking
 
 This list includes domains that are better to be whitelisted when using the UniFi Ad Blocking option.
