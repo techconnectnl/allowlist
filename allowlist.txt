@@ -34,3 +34,4 @@ api.iterable.com
 ca.iadsdk.apple.com
 cdn-settings.segment.com
 vc.hotjar.io
+cookie-cdn.cookiepro.com
