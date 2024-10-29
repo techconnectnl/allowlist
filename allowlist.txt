@@ -35,3 +35,4 @@ ca.iadsdk.apple.com
 cdn-settings.segment.com
 vc.hotjar.io
 cookie-cdn.cookiepro.com
+bam.eu01.nr-data.net
