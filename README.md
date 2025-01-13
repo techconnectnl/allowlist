@@ -8,12 +8,15 @@ This list includes domains that are better to be whitelisted when using the UniF
 
 To add this simply go to your UniFi Network Settings:
 
-- Settings > Security > Traffic & Firewall Rules
-- Create Entry
+- Settings > Security > Firewall
+- Create Policy
 
 - Name: Whitelisted Domains
+- Source Zone: Internal, any any  
 - Action: Allow
 - Source: All Devices
-- Destination: Domain Name
+- Destination Zone: External, Domains
+- Under Domains add the domains in this list
+- Port; any, all, all
 - Schedule: Always
 - Then batch add the content of the allowlist.txt and click Save
