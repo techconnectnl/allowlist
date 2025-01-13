@@ -14,7 +14,6 @@ To add this simply go to your UniFi Network Settings:
 - Name: Whitelisted Domains
 - Source Zone: Internal, any any  
 - Action: Allow
-- Source: All Devices
 - Destination Zone: External, Domains
 - Under Domains add the domains in this list
 - Port; any, all, all
