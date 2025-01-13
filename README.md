@@ -15,7 +15,7 @@ To add this simply go to your UniFi Network Settings:
 - Source Zone: Internal, any any  
 - Action: Allow
 - Destination Zone: External, Domains
-- Under Domains add the domains in this list
+- Under Domains add the domains in this list (allowlist.txt)
 - Port; any, all, all
 - Schedule: Always
 - Then batch add the content of the allowlist.txt and click Save
